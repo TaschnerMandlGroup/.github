@@ -10,4 +10,4 @@ This organization hosts analysis and software repositories supporting our resear
 - [AI4CAN](https://github.com/TaschnerMandlGroup/AI4CAN): App for FISH image classification
 - [SpatialIMC](https://github.com/TaschnerMandlGroup/SpatialIMC): Spatial interaction analysis in IMC images
 
-All repositories are currently in development and private, but will be published soon. Stay tuned.
+Some repositories are currently in development and private, but will be published soon. Stay tuned.
