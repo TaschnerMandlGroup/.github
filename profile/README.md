@@ -1,7 +1,8 @@
 ## Welcome to the Taschner-Mandl Lab at Children's Cancer Research Institute (CCRI)
-We are a group of experimental and computational biologists at CCRI with the goal to tackle unresolved questions of neuroblastoma pathogenesis and develop new diagnostic and therapeutic approaches to facilitate precision medicine for children with malignant tumors. For more information visit our [institutional homepage](https://ccri.at/research-group/sabine-taschner-mandl-group/).
 
 ![banner](github_banner.png)
+
+We are a group of experimental and computational biologists at CCRI with the goal to tackle unresolved questions of neuroblastoma pathogenesis and develop new diagnostic and therapeutic approaches to facilitate precision medicine for children with malignant tumors. For more information visit our [institutional homepage](https://ccri.at/research-group/sabine-taschner-mandl-group/).
 
 This organization hosts analysis and software repositories supporting our research. 
 - [DeepFLEX](https://github.com/TaschnerMandlGroup/DeepFLEX): Image processing and single-cell analysis pipeline for MELC images
