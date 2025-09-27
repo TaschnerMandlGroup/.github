@@ -6,6 +6,7 @@ We are a group of experimental and computational biologists at CCRI with the goa
 
 This organization hosts analysis and software repositories supporting our research. 
 - [NK-NB_study](https://github.com/TaschnerMandlGroup/NK-NB_study): Single cell RNA-seq analysis of bone marrow-derived NK cells in neuroblastoma metastasis samples
+- [YAP-TAZ_study](https://github.com/TaschnerMandlGroup/YAP-TAZ_study): Single cell transcriptomics & proteomic analysis of neuroblastoma primary tumor samples 
 - [DeepFLEX](https://github.com/TaschnerMandlGroup/DeepFLEX): Image processing and single-cell analysis pipeline for MELC images
 - [neuroblastoma](https://github.com/TaschnerMandlGroup/neuroblastoma): Single-cell transcriptomics & epigenomics analysis for neuroblastoma samples
 - [MapMetIP](https://github.com/TaschnerMandlGroup/MapMetIP): Image processing workflow for multi-modal (IF & IMC) high-plex images
