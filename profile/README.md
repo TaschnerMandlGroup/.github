@@ -6,13 +6,14 @@ We are a group of experimental and computational biologists at CCRI with the goa
 
 This organization hosts analysis and software repositories supporting our research. 
 - [NK-NB_study](https://github.com/TaschnerMandlGroup/NK-NB_study): Single cell RNA-seq analysis of bone marrow-derived NK cells in neuroblastoma metastasis samples
-- [YAP-TAZ_study](https://github.com/TaschnerMandlGroup/YAP-TAZ_study): Single cell transcriptomics & proteomic analysis of neuroblastoma primary tumor samples 
-- [DeepFLEX](https://github.com/TaschnerMandlGroup/DeepFLEX): Image processing and single-cell analysis pipeline for MELC images
+- [YAP-TAZ_study](https://github.com/TaschnerMandlGroup/YAP-TAZ_study): Single cell transcriptomics & proteomic analysis of neuroblastoma primary tumor samples
 - [neuroblastoma](https://github.com/TaschnerMandlGroup/neuroblastoma): Single-cell transcriptomics & epigenomics analysis for neuroblastoma samples
+- [SpatialIMC](https://github.com/TaschnerMandlGroup/SpatialIMC): Spatial interaction analysis in IMC images
+- [MapMetSC](https://github.com/TaschnerMandlGroup/MapMetSC): Single-cell transcriptomics & proteomic analysis for data extracted from MapMetIP
 - [MapMetIP](https://github.com/TaschnerMandlGroup/MapMetIP): Image processing workflow for multi-modal (IF & IMC) high-plex images
-- [MapMetSC](https://github.com/TaschnerMandlGroup/MapMetSC): Single-cell analysis pipeline for data extracted from MapMetIP
+- [DeepFLEX](https://github.com/TaschnerMandlGroup/DeepFLEX): Image processing and single-cell analysis pipeline for MELC images
 - [ALT-FISH](https://github.com/TaschnerMandlGroup/ALT-FISH): Classification of ALT-FISH spots
 - [AI4CAN](https://github.com/TaschnerMandlGroup/AI4CAN): App for FISH image classification
-- [SpatialIMC](https://github.com/TaschnerMandlGroup/SpatialIMC): Spatial interaction analysis in IMC images
+
 
 Some repositories are currently in development and private, but will be published soon. Stay tuned.
