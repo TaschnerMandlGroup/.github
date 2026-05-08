@@ -5,9 +5,9 @@
 We are a group of experimental and computational biologists at CCRI with the goal to tackle unresolved questions of neuroblastoma pathogenesis and develop new diagnostic and therapeutic approaches to facilitate precision medicine for children with malignant tumors. For more information visit our [institutional homepage](https://ccri.at/research-group/sabine-taschner-mandl-group/).
 
 This organization hosts analysis and software repositories supporting our research. 
-- [NK-NB_study](https://github.com/TaschnerMandlGroup/NK-NB_study): Single cell RNA-seq analysis of bone marrow-derived NK cells in neuroblastoma metastasis samples
+- [NK-NB_study](https://github.com/TaschnerMandlGroup/NK-NB_study): Single cell transcriptomics & epigenomics analysis of bone marrow-derived NK cells in neuroblastoma metastasis samples
 - [YAP-TAZ_study](https://github.com/TaschnerMandlGroup/YAP-TAZ_study): Single cell transcriptomics & proteomic analysis of neuroblastoma primary tumor samples
-- [neuroblastoma](https://github.com/TaschnerMandlGroup/neuroblastoma): Single-cell transcriptomics & epigenomics analysis for neuroblastoma samples
+- [neuroblastoma](https://github.com/TaschnerMandlGroup/neuroblastoma): Single cell transcriptomics & epigenomics analysis for neuroblastoma samples
 - [SpatialIMC](https://github.com/TaschnerMandlGroup/SpatialIMC): Spatial interaction analysis in IMC images
 - [MapMetSC](https://github.com/TaschnerMandlGroup/MapMetSC): Single-cell transcriptomics & proteomic analysis for data extracted from MapMetIP
 - [MapMetIP](https://github.com/TaschnerMandlGroup/MapMetIP): Image processing workflow for multi-modal (IF & IMC) high-plex images
