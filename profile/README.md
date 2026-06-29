@@ -1,5 +1,5 @@
-## Welcome to the Taschner-Mandl Lab 
-# St. Anna Children's Cancer Research Institute (CCRI), Vienna, Austria
+# Welcome to the **Taschner-Mandl Lab**
+## St. Anna Children's Cancer Research Institute (CCRI), Vienna, Austria
 
 ![banner](../github_banner_left.png)
 
