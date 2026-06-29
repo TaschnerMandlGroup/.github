@@ -1,4 +1,5 @@
-## Welcome to the Taschner-Mandl Lab at Children's Cancer Research Institute (CCRI) in Vienna
+## Welcome to the Taschner-Mandl Lab 
+# St. Anna Children's Cancer Research Institute (CCRI), Vienna, Austria
 
 ![banner](../github_banner_left.png)
 
@@ -8,7 +9,7 @@ This organization hosts analysis and software repositories supporting our resear
 - [fetahu_et_al_2023](https://github.com/TaschnerMandlGroup/fetahu_et_al_2023): Single cell transcriptomics & epigenomics analysis for neuroblastoma samples
     * Publication: Fetahu et al., 2023 (Nature Communications) 
 - [NK-NB_study](https://github.com/TaschnerMandlGroup/NK-NB_study): Single cell transcriptomics & epigenomics analysis of bone marrow-derived NK cells in neuroblastoma metastasis samples
-    * RPublication: ados, Wernig-Zorc et al., 2026 (Cellular & Molecular Immunology)
+    * Publication: Rados, Wernig-Zorc et al., 2026 (Cellular & Molecular Immunology)
     * Contributors: Wernig-Zorc, Sara; Prakash, Celine
 - [YAP-TAZ_study](https://github.com/TaschnerMandlGroup/YAP-TAZ_study): Single cell transcriptomics & proteomic analysis of neuroblastoma primary tumor samples
     * Publication: Strohmenger et al., 2026 (Nature Communications)
